@@ -12,6 +12,7 @@ This project is motivated by the online learning platform - Udacity. This projec
 # Files in the repo
 1. olympic_dataset_exploration.ipynb - An iPython notebook that contains the code for the project
 2. olympic_dataset_exploration.html - The HTML file that is derived from the notebook that has the code and the respective outputs.
+3. athlete_events.zip - The zipped folder containing the dataset in csv format
 
 # Summary of the results
 The project answers three questions related to winning a medal. They are,
